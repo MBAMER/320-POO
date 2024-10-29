@@ -25,7 +25,9 @@ public interface IExpellable
     public void FreeFlight();
 
     // Interrogate the drone
-    public EvacuationState GetEvacuationState();
+    public EvacuationState GetEvacuat
+    
+    >ionState();
 }
 ```
 
